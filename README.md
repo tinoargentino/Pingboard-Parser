@@ -19,3 +19,7 @@ Go to the bottom of the list and load all people. Right click on a picture and i
 Go to the HTML code, select the second line, <html>, right click>copy>copy outer HTML
 
 Paste to an HTML text file
+
+Update the file names in the notebook
+
+Run notebook

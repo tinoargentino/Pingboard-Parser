@@ -1,6 +1,11 @@
 # Pingboard-Parser
 Parse employees in pingboard
 
+Created as Python Notebook
+
+------------------------
+Instructions
+
 Start by creating an HTML file to parse
 
 Intructions to create the HTML file
